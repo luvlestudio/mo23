@@ -48,20 +48,20 @@ window.onload = () => {
       content: {
         title: "박성수 ♥ 김나영의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/eQxKEgJ.png",
+        imageUrl: "https://i.imgur.com/ScXPmhh.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://15.luvle.co.kr",
-          webUrl: "https://mo16.luvle.co.kr",
+          mobileWebUrl: "https://mo23.luvle.co.kr",
+          webUrl: "https://mo23.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo16.luvle.co.kr",
-            webUrl: "https://mo16.luvle.co.kr",
+            mobileWebUrl: "https://mo23.luvle.co.kr",
+            webUrl: "https://mo23.luvle.co.kr",
           },
         },
       ],
